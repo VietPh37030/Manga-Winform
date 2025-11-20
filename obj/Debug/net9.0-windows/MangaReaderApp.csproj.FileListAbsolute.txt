@@ -1,0 +1,17 @@
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.csproj.AssemblyReference.cache
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.AssemblyInfoInputs.cache
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.AssemblyInfo.cs
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.csproj.CoreCompileInputs.cache
+D:\WInform\bin\Debug\net9.0-windows\MangaReaderApp.exe
+D:\WInform\bin\Debug\net9.0-windows\MangaReaderApp.deps.json
+D:\WInform\bin\Debug\net9.0-windows\MangaReaderApp.runtimeconfig.json
+D:\WInform\bin\Debug\net9.0-windows\MangaReaderApp.dll
+D:\WInform\bin\Debug\net9.0-windows\MangaReaderApp.pdb
+D:\WInform\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+D:\WInform\obj\Debug\net9.0-windows\MangaRea.42F59108.Up2Date
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.dll
+D:\WInform\obj\Debug\net9.0-windows\refint\MangaReaderApp.dll
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.pdb
+D:\WInform\obj\Debug\net9.0-windows\MangaReaderApp.genruntimeconfig.cache
+D:\WInform\obj\Debug\net9.0-windows\ref\MangaReaderApp.dll
